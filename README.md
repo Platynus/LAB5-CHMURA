@@ -1,7 +1,10 @@
 ## Sprawozdanie z Programowanie Aplikacji w Chmurze Obliczeniowej
 ### Wykonał Patryk Pawelec s97696
 
-## LAB5-CHMURA
+## LAB5 - tworzenie prostej aplikacji internetowej
+
+Zawartość pliku DockerFile można znaleźć w dokumentacji
+
 
 ## Zbudowanie Obrazu Docker
 
